@@ -1,0 +1,57 @@
+Curriculum
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CV Julia</title>
+  </head>
+  <body>
+    <h1>Julia Ortiz Naharro</h1>
+    <h2>27.01.1997 / Ingeniería Sistemas Audiovisuales y Multimedia</h2>
+    Dividir en dos columnas
+    <div class="Derecha">
+      <p>
+        <h3>Presentacion/objetivo</h3>
+        <line>Soy una persona muy sociable, amigable, activa y con capacidad para trabajar en grupo.
+        He disfrutado de una vida muy relacionada con el deporte, por lo que cuento con una educación que me otorga la responsabilidad del trabajo en equipo así como la puntualidad, el compromiso y la lucha constante para conseguir los objetivos marcados tanto individuales como colectivos.</line>
+        </p>
+      <p>
+        <h3>Formacion</h3>
+        <li>BACHILLERATO TECNOLÓGICO • M. B. COSSÍO • JUNIO 2015</li>
+        <li>INGENIERIA DE SISTEMAS AUDIOVISUALES Y MULTIMEDIA • URJC • A DATE</li>
+        <li>MONITORA TIEMPO LIBRE + PRIMEROS AUXILIOS • ESCUELA CRUZ ROJA JUVENTUD • JUNIO 2016</li>
+        <line>Con prácticas en el colegio concertado La Salle Sagrado Corazón en la escuela de verano.</line>
+        <li>MANIPULADORA DE ALIMENTOS• NOVIEMBRE 2017</li>
+        <li>SOCORRISTA EN INSTALACIONES ACUÁTICAS • DICIEMBRE 2018</li>
+        <li>CURSO DE DESFIBRILACIÓN EXTERNO AUTOMATIZADO • DICIEMBRE 2018</li>
+      </p>
+      <p>
+        <h3>idiomas(hacer las barras )</h3>
+        <li>ESPAÑOL</li>
+        <li>INGLÉS B2</li>
+        <li>FRANCÉS A2</li>
+      </p>
+      <h4 centrado>648877378</h4>
+    </div>
+    <div class="Izquierda">
+      <p>
+        <h3>Datos personales</h3>
+        <li>Residencia: Fuenlabrada (Madrid)</li>
+        <li>Teléfono fijo: 916971818</li>
+      </p>
+      <p>
+        <h3>Experiencia</h3>
+        <li>Monitora en Parque de Bolas, camarera y recepcionista (Planeta Estrella Fuenlabrada)</li>
+        <li>Operaria de Centro Logístico en Decathlon España S.A </li>
+        <li>Monitora de comedor en ARCE Alimentación escolar</li>
+      </p>
+      <p>
+        <h3>Otros datos de interes</h3>
+        <li>Permiso de conducir clase B y vehículo propio.</li>
+        <li>Disponibilidad total e incorporación inmediata.</li>
+        <li>Viví y estudié inglés durante dos meses en Brighton y Londres en el verano de 2017.</li>
+        <li>Voluntariado en ROSCON'18</li>
+        <li>Perteneciente a la asociacion de robotica de urjc Fuenlabrada</li>
+      </p>
+      <h4 centrado>JULIAORTIZN@GMAIL.COM</h4>
+    </div>
+  </body>
