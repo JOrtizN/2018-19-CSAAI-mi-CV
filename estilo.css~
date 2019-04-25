@@ -1,0 +1,16 @@
+.Hola{
+  column-count: 2;
+  text-align:center;
+  break-after: auto;
+  column-rule-style: double;
+  column-rule-color: pink;
+}
+.Cabeza{
+    height: 130px;
+    overflow: hidden;
+    background-color: lightblue;
+}
+h3{
+  text-decoration: underline;
+  background-color: pink;
+}
